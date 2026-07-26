@@ -1,0 +1,53 @@
+HormigasAIS Foundation — Licencia de Visualización Restringida
+Copyright (c) 2026 Cristhiam Leonardo Hernández Quiñonez (CLHQ)
+Nodo A16-SanMiguel-SV, El Salvador
+
+Todos los derechos reservados.
+
+Este repositorio ("hormigasais-foundation") y todo su contenido —
+incluyendo documentos institucionales, material de pitch (one-pager,
+pitch-deck), evidencia técnica, especificaciones de arquitectura,
+modelo de negocio, y cualquier archivo derivado del Data Room KREA—
+son propiedad exclusiva del autor arriba mencionado.
+
+SE PERMITE:
+- Visualizar y leer el contenido con fines de evaluación, revisión por
+  aceleradoras, inversionistas o socios potenciales.
+
+NO SE PERMITE, sin autorización previa y por escrito del autor:
+- Copiar, reproducir o redistribuir el contenido, total o parcialmente.
+- Modificar, adaptar o crear obras derivadas.
+- Uso comercial del contenido fuera del propósito de evaluación indicado.
+- Reclamar autoría total o parcial del contenido.
+
+Esta licencia NO aplica a los SDKs publicados de forma independiente
+en PyPI y npm bajo sus propios términos de licencia, los cuales se
+rigen por lo declarado en sus respectivos repositorios y paquetes.
+
+Este repositorio, y los documentos que contiene, pueden estar
+respaldados por sellos criptográficos del Protocolo LBH v2.0
+(SHA-256 + HMAC-SHA256, timestamp verificable) conforme al marco legal
+publicado en docs.hormigasais.com/legal.html (Decreto 722, Decreto 234,
+Decreto 643 — El Salvador; GDPR, EU-US DPF, Principios WIPO a nivel
+internacional).
+
+Para solicitar permisos de uso, contactar: clhq@hormigasais.com
+
+EXCEPCIÓN — MATERIAL EDUCATIVO (EDU LAB)
+
+El contenido específico del programa educativo "HormigasAIS Edu Lab"
+(material didáctico, guías de laboratorio, y documentación de
+aprendizaje ubicada en products/edu-lab/) se distribuye bajo una
+licencia distinta:
+
+Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)
+https://creativecommons.org/licenses/by-nc/4.0/deed.es
+
+Bajo esta licencia SÍ se permite: copiar, redistribuir, adaptar y
+construir sobre el material educativo, siempre que se dé crédito
+apropiado a Cristhiam Leonardo Hernández Quiñonez (CLHQ) / HormigasAIS,
+y que el uso NO sea con fines comerciales.
+
+Esta excepción aplica única y exclusivamente al material señalado como
+Edu Lab. Todo el resto del repositorio permanece bajo los términos de
+"Todos los derechos reservados" descritos arriba.
