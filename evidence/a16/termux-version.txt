@@ -1,0 +1,8 @@
+Runtime:
+Termux
+
+Purpose:
+Edge Computing Environment
+
+Repository:
+HormigasAIS Foundation

@@ -1,0 +1,13 @@
+HormigasAIS Foundation Runtime
+
+Node:
+A16
+
+Environment:
+Android + Termux
+
+Role:
+Master Edge Node
+
+Status:
+Operational
