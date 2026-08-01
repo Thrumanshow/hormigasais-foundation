@@ -54,3 +54,23 @@ marco de custodia en [docs.hormigasais.com/legal.html](https://docs.hormigasais.
 
 Referencia: [contrato-vinculante-socios-gobernanza-financiera-krea2026.pdf](../krea/annexes/) ·
 marco de custodia en [docs.hormigasais.com/legal.html](https://docs.hormigasais.com/legal.html)
+
+## Documento sellado — Contrato Vinculante v2 (versión final)
+
+| Campo | Valor |
+|---|---|
+| Documento | `contrato-vinculante-socios-gobernanza-financiera-krea2026-v2.pdf` |
+| Firma LBH (real y vigente) | `CLHQ-OLMGL3HZ` |
+| Hash SHA-256 | `2f57dda2612af11b8b1c5b13c8f7610c83ab4e19380784d0d51b949b93e81643` |
+| HMAC | `0f8ed811dde969f33c1feb0c99e3abfd` |
+| Plan | Enterprise — Soberano |
+| Tipo de sello | SOBERANO-PERMANENTE |
+| Emitido | 2026-08-01T10:01:41Z |
+| Válido hasta | Permanente (sin vencimiento) |
+| Nota | El texto impreso dentro del PDF referencia el sello preliminar `CLHQ-AGBFSR5A` (versión anterior). La firma real y verificable de este archivo exacto es `CLHQ-OLMGL3HZ`. |
+| Estado | ✅ SELLADO — Hash y firma verificados |
+
+Sello preliminar (versión anterior, con placeholders ya resueltos pero
+texto interno desactualizado): `CLHQ-AGBFSR5A` — ver sección anterior.
+
+Referencia: [contrato-vinculante-socios-gobernanza-financiera-krea2026-v2.pdf](../krea/annexes/)
