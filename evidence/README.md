@@ -36,3 +36,21 @@ Este directorio reúne la evidencia pública utilizada para validar la arquitect
 
 Referencia legal: [terminos-ronda-inversion.pdf](../krea/annexes/) ·
 marco de custodia en [docs.hormigasais.com/legal.html](https://docs.hormigasais.com/legal.html)
+
+## Documento sellado — Contrato Vinculante de Socios y Gobernanza Financiera
+
+| Campo | Valor |
+|---|---|
+| Documento | `contrato-vinculante-socios-gobernanza-financiera-krea2026.pdf` |
+| Firma LBH | `CLHQ-AGBFSR5A` |
+| Hash SHA-256 | `32d728205d1905b9acb7ce9d09a9d1a1c5a78d9547a07615897279dbada33c7d` |
+| HMAC | `c33ae58f41acef0231d08cae7e91aa2f` |
+| Plan | Enterprise — Soberano |
+| Tipo de sello | SOBERANO-PERMANENTE |
+| Nodo emisor | A16-SanMiguel-SV |
+| Sellado | 2026-08-01T08:56:12Z |
+| Válido hasta | Permanente (sin vencimiento) |
+| Estado | ✅ SELLADO — Hash y firma verificados |
+
+Referencia: [contrato-vinculante-socios-gobernanza-financiera-krea2026.pdf](../krea/annexes/) ·
+marco de custodia en [docs.hormigasais.com/legal.html](https://docs.hormigasais.com/legal.html)
