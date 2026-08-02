@@ -72,3 +72,18 @@ marco de custodia en [docs.hormigasais.com/legal.html](https://docs.hormigasais.
 | Generado por | `generate_foto3_v2.py` (lee el log directamente, sin datos fabricados) |
 | Nota | La imagen muestra un evento puntual real capturado del bus de feromonas, no una transmisión continua en vivo. |
 
+
+## Imagen — Hardware Real: Trampa de Mosquitos IoT (Nodo A16)
+
+| Campo | Valor |
+|---|---|
+| Archivo | `krea/annexes/Foto_Hardware_Trampa_Mosquitos_LBH_NodoA16.png` |
+| También reemplaza | `krea/annexes/Foto_3_Arquitectura_Nodos_Kit_EdTech.png` |
+| Tipo | Diagrama técnico de hardware real |
+| Componentes | ESP8266 NodeMCU + PIR HC-SR501 + Resistencia IR + Ventilador 40mm + Relay 5V |
+| Generado | Script `crear_trampa_lbh.py` (Termux) |
+| Fecha | 2026-08-01 |
+| Nodo | A16 · San Miguel, El Salvador |
+| Protocolo | LBH v2.0 |
+| Estado | ✅ Hardware documentado y versionado |
+
