@@ -60,3 +60,15 @@ Versiones preliminares (v1, v2) fueron descartadas del repositorio.
 
 Referencia: [contrato-vinculante-socios-gobernanza-financiera-krea2026-final.pdf](../krea/annexes/) ·
 marco de custodia en [docs.hormigasais.com/legal.html](https://docs.hormigasais.com/legal.html)
+
+## Imagen — Arquitectura de Nodos y Kit EdTech
+
+| Campo | Valor |
+|---|---|
+| Archivo | `krea/annexes/Foto_3_Arquitectura_Nodos_Kit_EdTech.png` |
+| Fuente de datos | Evento real leído de `hormigasais-core/logs/pheromone_stream.log` |
+| Evento mostrado | `timestamp: 1780302930`, `type: mosquito_pulse`, `origin: manager_alpha` |
+| Fecha real del evento | 2026-06-01 02:35:30 CST |
+| Generado por | `generate_foto3_v2.py` (lee el log directamente, sin datos fabricados) |
+| Nota | La imagen muestra un evento puntual real capturado del bus de feromonas, no una transmisión continua en vivo. |
+
