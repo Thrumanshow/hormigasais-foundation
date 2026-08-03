@@ -16,7 +16,7 @@ Este directorio reúne la evidencia pública utilizada para validar la arquitect
 
 ## Arquitectura General
 
-![Architecture Overview](./assets/architecture-overview-v0.2.0.png)
+![Hardware Real - Trampa de Mosquitos LBH Nodo A16](../krea/annexes/Foto_Hardware_Trampa_Mosquitos_LBH_NodoA16.png)
 
 
 ## Documento sellado — Términos de Ronda de Inversión
