@@ -192,7 +192,7 @@ Tabla única de trazabilidad pública. Cada fila es un artefacto verificable de 
 | LBH SDK (Python) | Paquete PyPI | *(https://pypi.org/project/lbh-sdk/)* | ✅ Publicado |
 | LBH SDK (JavaScript) | Paquete npm | *(https://www.npmjs.com/package/lbh-sdk-hormigasais)* | ✅ Publicado |
 | LBH_SPEC_v2.0 | Especificación + DOI | *(https://zenodo.org/records/19177759)* | ✅ Publicado |
-| hormigasais-edge-starter | Producto comercial | *(https://www.npmjs.com/package/hormigasais-edge-starter)* | ✅ Publicado |
+| hormigasais-edge-starter | Producto comercial | `Thrumanshow/hormigasais-edge-starter` (GitHub) | ✅ Producción |
 | blog.hormigasais.com | Sitio en producción | https://blog.hormigasais.com | ✅ Activo |
 | Nodo A16 — Colonia Escuela v0.3 | Ejecución en vivo | `evidence/assets/architecture-overview-v0.2.0.png` | ✅ Verificado |
 | Nodo A16 — Trampa de Mosquitos IoT | Hardware / Firmware | `evidence/hardware-mosquito-trap.md` | ✅ Verificado |
